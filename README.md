@@ -21,6 +21,7 @@
 - Problem Statement  
 - Objectives & Expected Outcomes  
 - Target Audience  
+
 ### **3️⃣ Methodology & Approach**  
 - Data Collection & Processing  
 - Analytical Framework  
@@ -44,6 +45,7 @@
 ### **7️⃣ Implementation Guide**  
 - Installation & Setup  
 - Step-by-Step Usage Guide  
+
 ### **8️⃣ Future Enhancements & Scalability**  
 - Planned Features  
 - Potential Use Cases  
@@ -67,7 +69,8 @@
 ![Flow Chart](assets/Workflow%20(1).png)
 ---
 
-## **🚀 Introduction**  **Startup Investment Analysis** is a data analytics project by **Quantum Queries**, designed to uncover insights from startup funding data. Our interactive dashboard helps investors, entrepreneurs, and analysts make data-driven decisions by visualizing key trends such as:  
+## **🚀 Introduction**  
+**Startup Investment Analysis** is a data analytics project by **Quantum Queries**, designed to uncover insights from startup funding data. Our interactive dashboard helps investors, entrepreneurs, and analysts make data-driven decisions by visualizing key trends such as:  
 
 📌 **Funding Rounds Analysis** – Understand the investment landscape.  
 📌 **Investor Trends** – Identify top investors and their interests.  
@@ -88,7 +91,8 @@ We leverage **Python, Jupyter Notebook, Pandas, NumPy, Plotly, and Streamlit** t
 ---
 
 ## **🌍 Live Demo**  
-🔗 **Try it Now** → [Startup Investment Analysis Dashboard](https://quantumqueries.streamlit.app/)
+🔗 **Try it Now** → [Startup Investment Analysis Dashboard](https://quantumqueries.streamlit.app/)  
+
 ---
 
 ## **📂 Project Structure**  
@@ -114,6 +118,7 @@ We leverage **Python, Jupyter Notebook, Pandas, NumPy, Plotly, and Streamlit** t
 🎥 **Codebase Walkthrough:**[CodeBase Video](https://screenrec.com/share/TN9WCkZRvI) 
 
 ---
+
 ## **✨ Features**  
 ✅ **Real-Time Data Visualization** – Interactive charts using **Plotly**  
 ✅ **Customizable Filters** – Filter data based on **year, investor, industry, funding amount**  
@@ -140,6 +145,7 @@ We leverage **Python, Jupyter Notebook, Pandas, NumPy, Plotly, and Streamlit** t
 
 ## 🌍 **Geographic Investment Map**
 ![GeoGraphic Investment Map](assets/map.png) 
+
 ---
 
 ## **🎯 Design Decisions & Assumptions**  
@@ -196,6 +202,7 @@ Once the app is running, explore different sections of the dashboard:
 | **Streamlit** | Web framework for dashboard deployment |
 
 ---
+
 ## **📊 APIs & Datasets**  
 The project primarily uses **CSV datasets** for analysis. In the future, we plan to integrate **real-time APIs** for live data updates.
 
@@ -218,6 +225,7 @@ We welcome contributions! Follow these steps:
 **Want to contribute?** Check our [Contribution Guide](CONTRIBUTING.md)  
 
 ---
+
 ## **👨‍💻 Team Members**  
 💡 **Quantum Queries Team**  
 👤 **Ankit Yadav** – Data Engineer & Visualization Specialist  
@@ -228,20 +236,17 @@ We welcome contributions! Follow these steps:
 ---
 
 ## **📜 License**  
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.    
+
+---## 📫 Let's Connect!
+
+[LinkedIn](https://www.linkedin.com/in/ciricilla-sarika-174307243) • [Email](sarikada25@gmail.com) • [GitHub](https://github.com/Sarika-max-prog)
 
 ---
 
 
-## **📩 Stay Connected**  
 
-🔗 **GitHub Repository** → [![GitHub](https://img.shields.io/badge/GitHub-Quantum%20Queries-blue?logo=github)](https://github.com/ankityadav-problemsolver/B42_DA_005_Quantum-Queries)  
 
-📩 **Contact Us** → [![Email](https://img.shields.io/badge/Email-ankitofficial151%40gmail.com-red?logo=gmail)](mailto:ankitofficial151@gmail.com)  
-
-📌 **Follow us on LinkedIn** → [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Yadav-blue?logo=linkedin)](https://www.linkedin.com/in/ankityadav-datasolver/)  
-
----
 
 ### **🚀 Ready to Explore Startup Investment Trends?**  
 👉 [Launch the Dashboard Now](https://quantumqueries.streamlit.app/)  
